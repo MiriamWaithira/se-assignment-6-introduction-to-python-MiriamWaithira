@@ -262,11 +262,10 @@ Output:
 This is line 1
 This is line 2
 This is line 3
+NB: To use Python to read and write into files, the .txt files should be in the same directory as the files containing the read and write codes for python.
 
 
 REFERENCES
-
-
 https://www.python.org/doc/essays/blurb/
 https://www.geeksforgeeks.org/what-is-python/
 https://www.youtube.com/watch?v=kqtD5dpn9C8
